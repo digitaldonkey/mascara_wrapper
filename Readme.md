@@ -70,7 +70,7 @@ npm run build
 
 ```
 npm install --global watchify
-cd js/metamask
+cd js/mascara
 npm install
 npm run dev
 ```
